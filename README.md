@@ -23,6 +23,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Acknowledgments
 The project builds upon the knowledge gained from the pre-trained VGG16 model.
 Gratitude to the open-source community for their contributions to PyTorch, Pillow, and other related libraries.
-For any inquiries or feedback, please feel free to contact your_email@example.com.
+For any inquiries or feedback, please feel free to contact me.
 
 MIT License
